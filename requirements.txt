@@ -9,3 +9,5 @@ pinecone-client
 streamlit
 requests
 google-api-core
+grpcio
+grpcio-status
